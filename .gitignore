@@ -1,32 +1,64 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
+zipunzip_src/unzip/windll/vc6/lib/Debug/
+zipunzip_src/zip20/windll/visualc/lib/Debug/
+*.user
+winvnc/Debug/
+winvnc/bin/
+vncviewer/omnithread/Debug/
+winvnc/.vs/
+vncviewer/Debug/
+vncviewer/bin/
+vncviewer/.vs/
+winvnc/omnithread/Debug/
+rdr/Debug/
+libjpeg-turbo-win/Debug/
+xz-5.2.1/windows/Debug/
+zlib/contrib/vstudio/vc15/x86/ZlibStatDebug/
+libjpeg-turbo-win/Release/
+libjpeg-turbo-win/x64/
+rdr/Release/
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.log
+*.tlog
 *.lib
-
-# Executables
+*.pdb
 *.exe
-*.out
-*.app
+*.iobj
+*.ipdb
+*.res
+*.aps
+*.lastbuildstate
+*.ipch
+*.cache
+*.sbr
+vncviewer/x64/
+*.sdf
+zlib/.vs/
+zlib/lib/Win32/
+zlib/lib/x64/
+winvnc/winvnc/My Inspector Results - winvnc/
+winvnc/winvnc/x64/
+zipunzip_src/zip20/windll/visualc/lib/Release/
+winvnc/Release/
+zipunzip_src/unzip/windll/vc6/lib/x64/Debug/
+zipunzip_src/unzip/windll/vc6/lib/x64/Release/
+rdr/x64/Debug/
+rdr/x64/Release/
+vncviewer/omnithread/Release/
+vncviewer/omnithread/x64/Debug/
+vncviewer/omnithread/x64/Release/
+zlib/x64/Release/
+zlib/Debug/
+zipunzip_src/unzip/windll/vc6/lib/Release/
+xz-5.2.1/windows/Release/Win32/liblzma/
+winvnc/winvnc/Debug/
+zipunzip_src/zip20/windll/visualc/lib/x64/Debug/
+zipunzip_src/zip20/windll/visualc/lib/x64/Release/
+xz-5.2.1/windows/Release/
+winvnc/omnithread/x64/
+winvnc/winvnc/Release/
+zlib/x64/Debug/
+zlib/Release/
+winvnc/omnithread/Release/
+vncviewer/Release/
+repeater/.vs/
+winvnc/winvnc/VTune Profiler Results/
